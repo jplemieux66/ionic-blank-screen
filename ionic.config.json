@@ -1,5 +1,7 @@
 {
   "name": "ionic-blank-screen",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
